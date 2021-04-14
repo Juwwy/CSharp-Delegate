@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\MultiTask.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\MultiTask.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\MultiTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\MultiTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\MultiTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\ref\MultiTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\bin\Debug\net5.0\MultiTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\ref\MultiTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\DelegateTask\MultiTask\obj\Debug\net5.0\MultiTask.genruntimeconfig.cache
